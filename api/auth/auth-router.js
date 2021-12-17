@@ -3,7 +3,7 @@ const router = require('express').Router();
 router.post('/register', (req, res) => {
   res.end('implement register, please!');
   /*
-    IMPLEMENT
+    IMPLEMENTT
     You are welcome to build additional middlewares to help with the endpoint's functionality.
     DO NOT EXCEED 2^8 ROUNDS OF HASHING!
 
